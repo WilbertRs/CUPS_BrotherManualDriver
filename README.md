@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WilbertRs.CUPS_BrotherManualDriver" />
+
 # CUPS - How to manually install brother driver for your CUPS Print Server (For newbie like me)
 I recently created a project to make my old printer into a Wi-Fi printer with a used HG680P STB using Armbian Ubuntu Focal Server. The printer I use is the Brother DCP-T310, but this printer does not have a PPD file available online for CUPS which means I have to install the driver manually. Here's the step-by-step:
 
